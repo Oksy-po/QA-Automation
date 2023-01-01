@@ -23,6 +23,6 @@ public class UserSystem {
         else {
             System.out.println("Вы ввели неверный пароль!");
     }
-
+        input.close()
     }
 }
