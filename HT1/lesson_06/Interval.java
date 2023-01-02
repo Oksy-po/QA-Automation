@@ -25,5 +25,6 @@ public class Interval {
                 break;
             }
         }
+        input.close();
     }
 }

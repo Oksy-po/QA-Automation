@@ -21,7 +21,8 @@ public class LogIn {
             else {
                 System.out.println("Input data is incorrect.Try again.You have " + attempt + " attempts");}
             }
-        }
+        input.close();
+    }
             }
 
 
